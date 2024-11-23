@@ -7,8 +7,8 @@
     "prettier": "2.3.0"
   },
   "dependencies": {
-    "date-fns": "^2.22.1",
-    "got": "^11.8.5",
-    "js-quantities": "^1.7.6"
+    "date-fns": "^2.30.0",
+    "got": "^11.8.6",
+    "js-quantities": "^1.8.0"
   }
 }
