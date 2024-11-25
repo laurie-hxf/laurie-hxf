@@ -7,6 +7,7 @@
     "prettier": "2.3.0"
   },
   "dependencies": {
+    "clone-response": "^2.0.0",
     "date-fns": "^2.30.0",
     "got": "^11.8.6",
     "js-quantities": "^1.8.0"
