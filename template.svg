@@ -230,6 +230,12 @@
     </style>
   </defs>
 
+  <!-- GitHub 吉祥物动图 -->
+  <image href="https://github.githubassets.com/images/mona-loading-dark.gif" 
+         x="450" y="100" 
+         width="80" height="80" 
+         alt="GitHub Mascot" />
+
   <!-- typing 1 -->
   <g transform="translate(10, 0)" class="typing-1">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
