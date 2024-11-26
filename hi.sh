@@ -1,4 +1,4 @@
 hi(){
-	echo "hi"
+	echo "hi1" >> ~/hi.txt
 }
 hi
