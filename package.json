@@ -9,6 +9,7 @@
   "dependencies": {
     "clone-response": "^2.0.0",
     "date-fns": "^2.30.0",
+    "dotenv": "^16.5.0",
     "got": "^11.8.6",
     "js-quantities": "^1.8.0"
   }
